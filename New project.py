@@ -1,4 +1,4 @@
-#Hey all tbis is a simple demonstration of the Tic Tac Toe Game created using Pygame module in python
+#Hey all this is a simple demonstration of the Tic Tac Toe Game created using Pygame module in python
 #This code is designed for those who are new to this module and who had just stepped from the CLI interfaces to explore for more
 #I do belive that this code provided here wipl give you a brief introduction about pygame module and its work flow .Feel happy to explore
 
